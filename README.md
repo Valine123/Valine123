@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Valine_Okeyo
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Data Science, Public Health
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 You can reach me through valineatieno9@gmail.com
 
