@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Valine_Okeyo
-- 👀 I’m a Data Scientist.
-- 📫 You can reach me through valineatieno9@gmail.com
+- 👋 Hi, my name is Valine_Okeyo
+- 👀 I’m a Data Scientist with major specialization in public health.
+- 📫 Feel free to reach me @valineatieno9@gmail.com
 
 <!---
 Valine_Okeyo/Valine_Okeyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
